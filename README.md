@@ -1,0 +1,2 @@
+# Fake-News-Detection-using-Python-and-Machine-Learning
+I created a .csv file in Excel, imported it into Jupyter Notebook using pandas, numpy, and scikit-learn libraries. Then split it into training and testing sets, ensuring data separation. I initialised a PassiveAggressiveClassifier, fitted it on the training data, and predicted on the test set using TfidfVectorizer. The model achieved 100% accuracy.
